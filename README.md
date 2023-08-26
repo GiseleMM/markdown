@@ -1,2 +1,2 @@
-# markdown
-curso basico de markdown
+# _Markdown_
+Curso básico de markdown
