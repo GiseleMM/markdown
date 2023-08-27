@@ -12,4 +12,8 @@ Para generar negrita y cursiva usa 3 asteriscos o guiones bajos.
 ***negrita y cursiva***  
 ___negrita y cursiva___  
 
+Para generar tachado \~~  
+ ~~tachado ~~
 
+Para un aspecto resaltado \`   
+`resaltado`
